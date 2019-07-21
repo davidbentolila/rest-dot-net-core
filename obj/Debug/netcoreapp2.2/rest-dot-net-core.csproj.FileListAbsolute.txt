@@ -1,0 +1,14 @@
+/home/david/react-workspace/rest-dot-net-core/bin/Debug/netcoreapp2.2/rest-dot-net-core.deps.json
+/home/david/react-workspace/rest-dot-net-core/bin/Debug/netcoreapp2.2/rest-dot-net-core.runtimeconfig.json
+/home/david/react-workspace/rest-dot-net-core/bin/Debug/netcoreapp2.2/rest-dot-net-core.runtimeconfig.dev.json
+/home/david/react-workspace/rest-dot-net-core/bin/Debug/netcoreapp2.2/rest-dot-net-core.dll
+/home/david/react-workspace/rest-dot-net-core/bin/Debug/netcoreapp2.2/rest-dot-net-core.pdb
+/home/david/react-workspace/rest-dot-net-core/obj/Debug/netcoreapp2.2/rest-dot-net-core.csprojAssemblyReference.cache
+/home/david/react-workspace/rest-dot-net-core/obj/Debug/netcoreapp2.2/rest-dot-net-core.csproj.CoreCompileInputs.cache
+/home/david/react-workspace/rest-dot-net-core/obj/Debug/netcoreapp2.2/rest-dot-net-core.RazorAssemblyInfo.cache
+/home/david/react-workspace/rest-dot-net-core/obj/Debug/netcoreapp2.2/rest-dot-net-core.RazorAssemblyInfo.cs
+/home/david/react-workspace/rest-dot-net-core/obj/Debug/netcoreapp2.2/rest-dot-net-core.AssemblyInfoInputs.cache
+/home/david/react-workspace/rest-dot-net-core/obj/Debug/netcoreapp2.2/rest-dot-net-core.AssemblyInfo.cs
+/home/david/react-workspace/rest-dot-net-core/obj/Debug/netcoreapp2.2/rest-dot-net-core.RazorTargetAssemblyInfo.cache
+/home/david/react-workspace/rest-dot-net-core/obj/Debug/netcoreapp2.2/rest-dot-net-core.dll
+/home/david/react-workspace/rest-dot-net-core/obj/Debug/netcoreapp2.2/rest-dot-net-core.pdb
